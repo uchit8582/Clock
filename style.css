@@ -51,6 +51,7 @@ body{
 .sec{
     width: 250px;
     height: 250px;
+     transition: all 1s linear;
 }
 
 .hr, .min ,.sec{
